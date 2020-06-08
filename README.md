@@ -13,4 +13,4 @@ Source: http://github.com/bluerhinos/phpMQTT
 To install via Composer
 -----------------------
 `composer require bluerhinos/phpmqtt=@dev`
-php version > 7.2
+# php version > 7.2
